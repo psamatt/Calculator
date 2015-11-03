@@ -1,2 +1,2 @@
 # Calculator
-A calculator written in Java ;-)
+A calculator written in Java using Gradle ;-)
